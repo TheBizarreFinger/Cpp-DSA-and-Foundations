@@ -2,7 +2,7 @@
 
 A professional archive of my growth as a C++ developer, containing competitive programming solutions and university coursework (CS1410).
 
-## 🚀 Repository Navigation
+##  Repository Navigation
 
 ### [Codeforces](./Codeforces/)
 Practicing problem-solving speed and algorithm efficiency.
@@ -16,6 +16,6 @@ Academic foundations and structured data manipulation.
 * **[Major Assignments](./University/CS1410/Major-Assignments/):** Integration of multiple concepts into full applications.
 * **[Final Project](./University/CS1410/Final-Project/):** Semester-end capstone focusing on performance and code structure.
 
-## 🛠 Tech Stack
+##  Tech Stack
 * **Language:** C++17/C++20
 * **Concepts:** Data Structures (DSA), Algorithmic Complexity, Object-Oriented Logic.
