@@ -5,4 +5,4 @@ This directory tracks my competitive programming journey for algorithm optimizat
 ### Training Criteria
 * **Rating 800:** Building basic knowledge for early, small steps.
 * **Rating 1000:** Increasing Difficulty.
-* **Contests:** Time limit pressure and unknown problem category.
+* **Contests:** Real world situations which includes tough competition, time limit pressure & unknown problem category.
