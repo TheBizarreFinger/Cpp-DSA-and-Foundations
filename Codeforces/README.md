@@ -1,4 +1,4 @@
-# Codeforce Problems Solving
+# Codeforces Problem Solving
 
 This directory tracks my competitive programming journey for algorithm optimization and edge-case handling.
 
