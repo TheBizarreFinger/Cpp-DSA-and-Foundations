@@ -1,6 +1,6 @@
 # C++ DSA and Foundations
 
-A professional archive of my growth as a C++ developer, containing competitive programming solutions and university coursework (CS1410).
+A professional archive of my growth as a C++ developer, containing competitive programming solutions and university coursework (CS1410, CS1411).
 
 ##  Repository Navigation
 
