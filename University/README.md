@@ -1,4 +1,4 @@
-# CS1410
+# CS1410 & CS1411
 
 This directory tracks my academic progress in Computer Science projects and core building.
 
