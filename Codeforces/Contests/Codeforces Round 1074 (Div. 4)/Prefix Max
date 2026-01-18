@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main () {
+	int t = 0, n = 0, a = 0, max = 0;
+	cin >> t;
+	for (int i = 0; i < t; i++) {
+		max = 0;
+		cin >> a;
+		int array[a];
+		for (int j = 0; j < a; j++) {
+			cin >> array[j];
+			if (array[j] > max) {
+				max = array[j];
+			}
+		}
+		cout << max * a << endl;
+	}
+}
